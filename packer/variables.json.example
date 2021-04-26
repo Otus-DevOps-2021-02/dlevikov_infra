@@ -1,6 +1,6 @@
 {
     "folder_id": "testdlevikov1",
     "source_image_family": "testdlevikov2",
-    "service_account_key_file": "./key.json",
+    "service_account_key_file": "packer/key.json",
     "platform_id": "testdlevikov3"
 }
